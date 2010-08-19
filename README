@@ -1,0 +1,5 @@
+This is an outliner script for vim. It was forked from the TVO project, at
+http://bike-nomad.com/vim/vimoutliner.html (vim script #517 at vim.org).
+
+I am forking it here for 2 reasons. First - It makes bundling it easier. Second,
+I plan on extending it as I go, so why not share with the world.
